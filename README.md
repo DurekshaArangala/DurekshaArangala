@@ -16,7 +16,7 @@
 name: Dureksha Arangala
 role: Data Science Undergraduate (Final Year)
 university: Sri Lanka Technology Campus (SLTC)
-career_goal: Data Scientist | AI / ML / DL Engineer
+career_goal: Data Scientist 
 current_focus: Machine Learning, Deep Learning & Data Engineering
 ```
 
