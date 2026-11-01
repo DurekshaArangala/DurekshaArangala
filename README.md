@@ -12,7 +12,7 @@
 <h1 align="center">Hi, I'm Dureksha Arangala 👋</h1>
 
 <h3 align="center">
-  Final-Year Data Science Undergraduate | Aspiring Data Scientist
+  Final-Year Data Science Undergraduate
 </h3>
 
 <p align="center">
@@ -35,7 +35,7 @@
   <a href="https://www.linkedin.com/in/dureksha-arangala-03668019a/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="YOUR_PORTFOLIO_URL">
+  <a href="https://durekshaa-portfolio.vercel.app/">
     <img src="https://img.shields.io/badge/Portfolio-FFC857?style=for-the-badge&logo=googlechrome&logoColor=181717"/>
   </a>
 </p>
@@ -44,7 +44,6 @@
 
 ## 👩‍💻 About Me
 
-<img align="right" src="profile.jpg" width="230" alt="Dureksha Arangala"/>
 
 I'm a **final-year BSc (Hons) Data Science undergraduate** at Sri Lanka Technology Campus (SLTC), passionate about transforming data into meaningful insights and developing intelligent, data-driven solutions.
 
@@ -68,7 +67,7 @@ I enjoy working on practical projects that combine analytical thinking, programm
 <table>
 <tr>
 <td width="25%" align="center" valign="middle">
-  <img src="university.jpg" width="150" alt="Sri Lanka Technology Campus"/>
+  <img src="university.png" width="150" alt="Sri Lanka Technology Campus"/>
 </td>
 <td width="75%" valign="middle">
 
@@ -279,87 +278,6 @@ Power BI · DAX · Data Cleaning · Data Visualization
 
 ---
 
-## 🏆 Achievements & Certifications
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### 🥇 Competition & Achievements
-
-- **First Runner-Up** – InspiHER{Tech} V4.0 HackNova Competition, SLTC.
-- **Participant** – IEEE Xtreme Programming Competition 19.0.
-- **Participant** – BioFusion Hackathon, IEEE EMBS.
-
-</td>
-<td width="50%" valign="top">
-
-### 📜 Certifications & Programs
-
-- Data Science 101 – IBM SkillsBuild.
-- Python Basic – HackerRank.
-- Emerging Scholars' Research Programme – Phase Completion, SLTC FPGS&R.
-- IFS Champions Day 2026.
-
-</td>
-</tr>
-</table>
-
-<p align="center">
-  <img src="hackathon.jpg" width="80%" alt="Hackathon and achievement highlights"/>
-</p>
-
----
-
-## 👥 Leadership & Volunteering
-
-<p align="center">
-  <img src="leadership.jpg" width="80%" alt="Leadership and volunteering activities"/>
-</p>
-
-| Position | Organization | Period |
-|---|---|---|
-| Secretary – Student Branch Chapter | IEEE Computer Society, SLTC | 2025–2026 |
-| Editorial Deputy Head | IEEE Computer Society, SLTC | 2024–2025 |
-| Secretary | CloudSpace v1.0 | 2025 |
-| Deputy Head of Logistics | ITIA Career | — |
-| Content & Caption Team Head | Sipsari Yathra – LEO Club | — |
-| Program Coordinator | Nanasa Program – IEEE Sri Lanka Section | — |
-
-I enjoy contributing to student communities, organizing initiatives, collaborating with teams and developing leadership and communication skills.
-
----
-
-## 🔬 Research & Learning Interests
-
-<p align="center">
-  <img src="research.jpg" width="80%" alt="Research and learning"/>
-</p>
-
-I'm continuously exploring technologies and research areas that can help me grow as a Data Science professional.
-
-- Advanced Machine Learning
-- Deep Learning
-- Explainable Artificial Intelligence (XAI)
-- Graph Neural Networks
-- Big Data Engineering
-- MLOps and Model Deployment
-- Applied AI Research
-- Data Engineering and Analytics
-
----
-
-## 📸 Beyond the Code
-
-<p align="center">
-  <img src="university.jpg" width="31%" alt="University life"/>
-  <img src="hackathon.jpg" width="31%" alt="Hackathon experience"/>
-  <img src="events.jpg" width="31%" alt="Events and activities"/>
-</p>
-
-Learning, collaborating, participating in technical events and exploring new opportunities are all part of my journey.
-
----
 
 ## 📊 GitHub Analytics
 
